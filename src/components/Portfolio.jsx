@@ -9,7 +9,7 @@ const Portfolio = () => {
   const projects = [
     { id: 1, src: blaze, codeUrl: 'https://github.com/Kent-Vincent/ADV104_Project' },
     { id: 2, src: ecomob, codeUrl: 'https://github.com/Lanyer05/Capstone1/tree/UPDATED_NEW' },
-    { id: 3, src: blood, siteUrl: '#', codeUrl: '#' },
+    { id: 3, src: blood, siteUrl: '', codeUrl: '' },
     { id: 4, src: libraryManage,siteUrl: 'https://librarymanagementws.vercel.app', codeUrl: 'https://github.com/Lanyer05/wsproject' },
     { id: 5, src: reactEco, siteUrl: 'https://ecotaskreward.vercel.app/home', codeUrl: 'https://github.com/Lanyer05/reactjs-web-capstone' },
   ];
