@@ -2,8 +2,8 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <div name="contact" className="bg-gradient-to-b from-gray-900 to-cyan-900 w-full md:h-screen text-white">
-      <div className="p-4 mx-auto flex flex-col justify-center w-full h-full max-w-screen-2xl">
+    <div name="contact" className="bg-gradient-to-b from-black via-black to-black w-full md:h-screen text-white">
+      <div className="p-4 mx-auto flex flex-col justify-center w-full h-full max-w-screen-xl">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-300">Contact</p>
           <p className="py-6 text-white">Submit the form below to get in touch with me</p>
