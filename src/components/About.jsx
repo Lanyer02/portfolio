@@ -29,7 +29,6 @@ const About = () => {
             box-shadow: 0 8px 30px rgba(0, 198, 255, 0.6);
             background: linear-gradient(45deg, #0072ff, #00c6ff);
           }
-
           .icon {
             transition: transform 0.3s ease;
           }
