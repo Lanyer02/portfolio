@@ -66,7 +66,7 @@ const About = () => {
               <p className="text-cyan-500 font-semibold text-xs font-serif">_</p>
               <p className="font-bold text-xl tracking-wider text-cyan-500">_</p>
             </div>
-            <div className="img w-[180px] aspect-square bg-gray-100 z-40 rounded-md">
+            <div className="w-[180px] aspect-square bg-gray-100 z-40 rounded-md">
               <img src={HeroImage} alt="Profile Image" className="w-full h-full object-cover rounded-md" />
             </div>
             <div className="btm-_container z-40 flex flex-row justify-between items-end gap-10">
